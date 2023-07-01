@@ -90,7 +90,7 @@ $ npx create-react-app todo-app --template typescript
 └── src/
     ├── app/                    # Инициализирующая логика приложения
     |    ├── index.tsx          #    Энтрипоинт для подключения приложения (бывший App.tsx)
-    |    └── index.css         #    Глобальные стили приложения
+    |    └── index.css          #    Глобальные стили приложения
     ├── pages/                  #
     ├── widgets/                #
     ├── features/               #
